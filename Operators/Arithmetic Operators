@@ -1,0 +1,4 @@
+-> The binary arithmetic operators are +,-,*,/ and the modulus operator %.
+-> Integer division truncates any fractional part.
+-> The % operator cannot be applied to float or double.
+-> The binary + and - operators have the same precedence, which is lower than the precedence of *,/, and %, which is in turn lower than unary + and - arithmetic operators associative left to right.
