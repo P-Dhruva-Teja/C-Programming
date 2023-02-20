@@ -1,0 +1,14 @@
+-> Variables are containers for storing data values, like numbers and characters.
+-> A variable in C is a memory location associated with some name in order to store some form of data and retrieve it when required.
+-> In C, all variables must be declared before they are used, usually at the beginning of the function before any executable statements.
+-> A declaration announces the properties of variables it has type name and list of variables.
+-> An initialization assigns the value to the variable
+
+---How to declare a variable
+data_type variable_name;
+
+---How to initialize a variable
+variable_name = value based on the type of the variable;
+
+We can also initialize a variable while declaring it
+data_type variable_name = value based on the type of the variable;
