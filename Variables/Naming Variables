@@ -1,0 +1,5 @@
+-> Names are made up of letters and digits.
+-> The first character must be a letter.
+-> The underscore "_" counts as letter. (It is useful for improving readability of long variable names)
+-> Name should not begin with underscore. (Since, library routines often use such names)
+-> Upper case and lower case letters are distinct.
